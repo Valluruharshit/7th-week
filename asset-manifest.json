@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/7th-week/static/css/main.e7bc57c7.css",
+    "main.js": "/7th-week/static/js/main.bfc3fd61.js",
+    "static/js/453.1b6cbde4.chunk.js": "/7th-week/static/js/453.1b6cbde4.chunk.js",
+    "static/media/website-construction-background_1361-1388.avif": "/7th-week/static/media/website-construction-background_1361-1388.ab1a94c8b03c54666a06.avif",
+    "index.html": "/7th-week/index.html",
+    "main.e7bc57c7.css.map": "/7th-week/static/css/main.e7bc57c7.css.map",
+    "main.bfc3fd61.js.map": "/7th-week/static/js/main.bfc3fd61.js.map",
+    "453.1b6cbde4.chunk.js.map": "/7th-week/static/js/453.1b6cbde4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7bc57c7.css",
+    "static/js/main.bfc3fd61.js"
+  ]
+}
